@@ -5,3 +5,4 @@ venv
 __pycache__/
 chroma_data
 rag/data
+.DS_Store
